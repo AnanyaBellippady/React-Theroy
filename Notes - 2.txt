@@ -1,0 +1,2 @@
+What is NPM?
+NPM is a registry with a lot of tools/packages that can be used to build websites using js.
